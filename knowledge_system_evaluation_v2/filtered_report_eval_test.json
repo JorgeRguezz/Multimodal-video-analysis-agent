@@ -1,0 +1,338 @@
+[
+    {
+        "question": "What are some key runes and item choices for playing Aatrox effectively in the top lane?",
+        "answer_gold": "When playing Aatrox in the top lane, it's essential to choose your runes wisely. For the Legend category, you can opt for either 'Legend: Alacrity' for increased attack speed or 'Legend: Tenacity' to reduce crowd control effects. However, it's important to note that combining both Legend: Tenacity and the 'Unflinching' rune along with Mercury's Threads can lead to diminishing returns on your total tenacity, so it's advisable to choose one or the other. If you're facing a lane opponent who pokes you frequently, 'Second Wind' is a good choice for sustain.\n\nFor items, start with 'Doran's Shield' for survivability. In terms of Mythic items, 'Goredrinker' is considered the best option for Aatrox, as it enhances his sustain and damage output. While 'Eclipse' and 'Divine Sunderer' can also work, they don't provide the same level of survivability and damage synergy as Goredrinker. As for boots, 'Mercury's Threads' are ideal against heavy crowd control, while 'Plated Steelcaps' are better when facing multiple basic attack champions. If neither option seems suitable, 'Ionian Boots of Lucidity' may be a viable alternative.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "How do you handle tough matchups like Fiora or Irelia when playing Aatrox?",
+        "answer_gold": "Handling tough matchups, such as Fiora or Irelia, requires a strategic approach when playing Aatrox. Against Fiora, who poses a significant threat, you need to be cautious about allowing her to hit her vitals without punishing her. It\u2019s crucial to remain unpredictable with your crowd control to catch her off guard. Many players may pick Fiora to counter Aatrox, but if they are inexperienced with her, you might find opportunities to exploit their mistakes.\n\nOn the other hand, the matchup against Irelia is particularly challenging due to her multiple dashes and damage reduction on her W. To navigate this, avoid engaging her unless you are confident in your ability to win the trade. Be sure to save your E ability for dodging her crowd control; if she whiffs her stun, you can capitalize on that opportunity to engage. Additionally, consider purchasing 'Plated Steelcaps' for additional survivability and 'Bramble Vest' early in the match to counter her healing. Overall, patience and strategic play are key to overcoming these difficult matchups.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the main threats Aatrox faces in the current meta?",
+        "answer_gold": "Aatrox faces several champions that can pose significant threats to him in the current meta. The most notable is Malphite, categorized as an extreme threat due to his ability to stack armor and negate Aatrox's damage output. Ornn is another major threat as he can outscale Aatrox in the late game and provides team utility with his ultimate. Dr. Mundo and Sion are considered minor threats; while they can absorb a lot of damage, they generally don't match Aatrox's damage potential in the early to mid-game. Fiora presents a major challenge as well, especially in split-push scenarios, while Riven is even in terms of matchup, offering both champions a fair chance depending on skill. Darius is labeled as a major threat primarily due to his strong early game dominance, which can make it difficult for Aatrox to find his footing.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Can you explain why attack speed Aatrox is considered effective and how to play him?",
+        "answer_gold": "Attack speed Aatrox, dubbed 'Riven 2.0' by some players, focuses on maximizing auto-attack damage rather than relying solely on ability usage. The idea behind this build is to utilize Aatrox's auto-attacks in combination with his abilities to create a potent damage output. Early game, players should farm passively while building up their Blade of the Ruined King, which synergizes well with attack speed. The strategy involves initiating fights with abilities to catch enemies, then switching to auto-attacks to finish them off. Aatrox's E ability provides a small dash, which can be used for mobility and to reposition during fights. Once you have 1-3 items, it's essential to use your Q ability to engage from mid-range, allowing you to cancel enemy abilities and prevent their escape. This playstyle makes Aatrox a strong split-pusher, leveraging his ability to take down towers quickly with increased auto-attack speed. Players are encouraged to communicate their desire for Aatrox's return in the game through social media, as he is currently considered 'deleted' from the champion roster.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some strategies for building items on Ahri based on the type of opponents faced?",
+        "answer_gold": "When building items on Ahri, adaptability is key, as many items are situational based on the enemy composition. For instance, against teams with three or more bruisers or tanks, you might first build Liandry's Anguish for sustained damage. Following that, item choices should be tailored to the specific match-up. If facing heavy AP champions with crowd control, opting for Mercurial Scimitar might be wise, while Sorcerer's Shoes would be more effective against teams composed mainly of squishy champions. Rod of Ages can provide some tankiness but at the cost of losing utility from Malignance, which one might consider swapping. For dealing with high healing enemies, Morellonomicon can be crucial. Additionally, items like Banshee's Veil can help mitigate damage from problematic AP champions, while Void Staff is essential against opponents with significant magic resistance. Understanding these situational builds allows Ahri to maximize her effectiveness in various match-ups throughout the game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some recommended runes for playing Ahri, and how do they vary based on different builds?",
+        "answer_gold": "For Ahri, the standard damage runes are often recommended for every build, providing consistent damage output. However, if you opt for a tear build, situational runes that focus on gold gain and scaling can be beneficial, although they are not recommended for other build types. If you're aiming to play a more supportive or safer role in lane, alternative runes can be used, but they may not be as effective as the standard rune setup. Ultimately, the choice of runes should align with your playstyle and the specific match conditions you encounter.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What starting items and first back strategies should I consider when playing Ahri?",
+        "answer_gold": "Typically, starting with Doran's Ring is favored for Ahri, as it enhances early-game damage and sustain. Alternatively, a Corrupting Potion could be beneficial if facing heavy poke champions, allowing you to stay in lane longer. For your first back, it's crucial to prioritize obtaining a Lost Chapter, which enables you to spam abilities like Q and W effectively. If you have extra gold, you can also consider purchasing potions and boots to enhance mobility. This itemization strategy sets the foundation for a strong mid-game, allowing you to maximize your damage potential and roam effectively.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some effective strategies for playing Ahri in the mid lane?",
+        "answer_gold": "Playing Ahri effectively in the mid lane revolves around utilizing her high mobility and burst damage capabilities. Start by using her Q, Orb of Deception, to poke your opponent while also clearing minion waves. Make sure to time your E, Charm, for crucial moments to set up kills or disrupt enemy engages. Combining your W, Fox-Fire, with Q can provide a strong burst of damage, especially against low-health targets. Your R, Spirit Rush, is essential not only for engaging and escaping but also for roaming to other lanes to secure kills. Always keep an eye on your passive, Essence Theft, to maximize healing during trades, and prioritize positioning to dodge skill shots and maintain your survivability in fights.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Who are the champions that Ahri struggles against, and who synergizes well with her?",
+        "answer_gold": "Ahri faces extreme threats from champions like Kassadin, Malzahar, Xerath, and Lux. These champions can out-range her or lock her down, making it challenging for her to engage effectively. On the other hand, Ahri has ideal synergies with champions like Vi, Bel'Veth, Briar, Xin Zhao, and Viego. These champions can help set up kills with their crowd control and engage potential, allowing Ahri to capitalize on her burst damage. When playing with these champions, coordinate your abilities to maximize your kill potential and create opportunities for team fights.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What runes and starting items are recommended for Ahri in most matchups?",
+        "answer_gold": "For most matchups, it is advisable to take the Aery rune that enhances your poke capability, making it easier to harass your opponents during the laning phase. Additionally, the minion demat rune helps with better wave control, allowing you to shove and roam effectively. As for starting items, you can opt for either Doran's Ring or a corrupting potion. The corrupting potion is particularly useful for better sustain in lane. Alternatively, you can start with a Tear or Sapphire Crystal along with a refillable potion to expedite your progression towards core items like Seraph's Embrace or Malignance.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some key strategies and itemization tips for Ahri, especially regarding her matchups?",
+        "answer_gold": "Ahri thrives on ability haste and mobility, making items that enhance these stats crucial. Core items like Lichbane not only increase her damage output but also make her trades more effective. You can choose to build Malignance first or go for Lichbane after completing Lost Chapter for an earlier powerspike. In matchups against champions like Cassiopeia or Fizz, where trading can be particularly challenging, it's essential to play cautiously and wait for the right moment to engage, using your charm after they've committed their mobility spells. If you find yourself needing more survivability, Seraph's Embrace is a solid option. Against tanky teams, consider Liandry's Anguish for additional damage. Lastly, skill matchups like Yasuo require a good understanding of your enemy's abilities, as his Wind Wall can completely counter your kit, making it a battle of wits.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What summoner spells are recommended for Lux, and how do they contribute to her gameplay?",
+        "answer_gold": "Lux has several summoner spell options that can greatly enhance her survivability and effectiveness in gameplay. Barrier is a standard choice because it offers crucial protection given Lux's squishy nature and lack of mobility, allowing her to survive burst damage. Cleanse is essential in matchups against champions with strong crowd control like Zoe or Lissandra, as it enables her to escape debilitating CC and avoid being burst down. Teleport can be beneficial, especially if facing an opponent with a similar spell; it provides map presence and helps maintain lane control. For more aggressive matchups against assassins, Exhaust is a good pick to reduce incoming damage and increase her chances of survival. Each of these spells can be strategically selected based on the enemy team composition and your specific needs in the match, making them integral to Lux's playstyle.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What runes do you recommend for Lux when playing as a support, especially in a bot lane with a mage ADC?",
+        "answer_gold": "When playing Lux as a support in a bot lane with a mage ADC, I recommend selecting runes that enhance your damage output and mana regeneration. Key runes include Dark Harvest, which can significantly boost your damage output, especially when you\u2019re paired with a mage like Zyra or Neeko. Biscuit Delivery is another essential rune as it helps regenerate mana early on in the game, ensuring you can continuously poke and harass the enemy. Additionally, make sure to focus on controlling your mana usage, as I learned from my experience playing Zyra. This rune setup has proven effective for me and works well with Lux's kit, allowing you to maximize your impact in the game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some effective strategies for playing Lux against hook champions like Thresh and Blitzcrank?",
+        "answer_gold": "Playing Lux against hook champions such as Thresh and Blitzcrank can be particularly challenging due to their ability to easily engage and burst her down. To counter this threat, you should focus on a few key strategies. First and foremost, always be aware of their hook cooldowns; if they miss their hook, it's a significant opportunity for you to poke or engage. Positioning is crucial; stay behind minions to block hooks and maintain a safe distance from them. Additionally, be unpredictable with your movement to make it harder for them to land their skill shots. Utilizing your Light Binding (E) effectively can also help control the lane, rooting enemies and providing opportunities for follow-up damage. When engaging, ensure you have vision of the enemy support and try to bait out their hooks before committing to any aggressive plays.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What items should Lux prioritize in her build, especially when facing tanky opponents?",
+        "answer_gold": "Lux should prioritize items that enhance her AP damage while providing utility and survivability. Starting with Spellthief's Edge is essential for poking and gaining gold through harassment. As the game progresses, she typically builds Luden's Tempest for magic penetration and burst damage, especially effective against squishy targets. However, against tanky opponents, Liandry's Anguish becomes crucial due to its % health damage component, which allows Lux to deal significant damage over time as she hits her abilities. Zhonya's Hourglass is a must-have core item, providing a crucial stasis effect that can save her from being burst down during fights. If the enemy team has a lot of healing, Morellonomicon is also important to counteract that healing. For mobility and additional magic penetration, Sorcerer's Shoes are recommended, but if facing heavy crowd control, Mercury's Treads can be a viable alternative. Ultimately, the build should adapt based on the game's flow and the composition of the opposing team.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some recommended runes for Pyke, and how do they impact his gameplay?",
+        "answer_gold": "For Pyke, you have several rune options based on your playstyle and matchup. The primary options include Zombie Ward and Eyeball Collection, both of which provide utility and damage respectively. If you're facing heavy crowd control (cc), Unflinching is a strong choice as it grants tenacity and slow resistance, helping you stay mobile. For poke-heavy matchups, Revitalize can enhance your healing, while Bone Plating offers damage mitigation against burst damage. Additionally, in top lane situations, some players prefer taking Electrocute for quick burst damage, but this can be less viable compared to Hail of Blades, which maximizes your short trading power. The key takeaway is to adjust your runes based on the enemy team's composition and your personal comfort with Pyke's aggressive playstyle.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Can you explain the itemization path for Pyke, especially in terms of mythics and situational items?",
+        "answer_gold": "Absolutely! When it comes to itemization for Pyke, your go-to mythic item is Duskblade of Draktharr. This item provides a great balance of damage and sustain through its passive, along with a significant cooldown reduction (CDR) that synergizes well with Pyke's abilities, particularly his ultimate. Another option is Prowler's Claw, which offers a different playstyle but generally provides less CDR. Goredrinker is considered off-meta, yet it remains viable for its active ability and raw stats, especially in tank-heavy matchups. For boots, Ionian Boots of Lucidity are optimal due to their CDR, but if facing extreme crowd control, consider Mercury's Treads. As for lethality, it's beneficial to build Umbral Glaive early if you didn't take Ionian Boots or if you opted for Prowler's Claw. Black Cleaver is also a solid choice against tanky compositions. The general strategy is to adapt your item build based on the flow of the game and the champions you're up against, ensuring you maximize your effectiveness in fights.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the best runes to use for Pyke, and how do they enhance his gameplay?",
+        "answer_gold": "The best runes for Pyke primarily focus on maximizing his damage output and survivability during skirmishes. The Keystone rune, Hubris (HoB), is essential as it significantly boosts Pyke's damage early in the game, allowing him to win trades and set up for kills. Sudden Impact is also a crucial rune as it procs off most of Pyke's abilities, providing a substantial damage boost. For the secondary runes, Bone Plating is effective against burst damage, while Font of Life offers sustain during team fights. Additionally, using Double Adaptive and a Tenacity shard can further enhance Pyke's early game damage and resilience. These runes collectively enable Pyke to engage effectively, execute low-health targets, and survive in fights, making him a formidable presence in the lane and beyond.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the advantages of playing Pyke as a support champion?",
+        "answer_gold": "Playing Pyke as a support champion offers several unique advantages. Firstly, Pyke excels at catching enemies off guard during the laning phase and mid-game, particularly through his abilities like Bone Skewer and Phantom Undertow. These skills allow him to initiate fights or secure kills by locking down opponents. Additionally, Pyke can significantly boost his team's gold income through his ultimate ability, Death from Below, which allows him to share gold with allies on kills. His roaming potential is also noteworthy; he can easily gank mid-lane due to his stealth from Ghostwater Dive, which helps him bypass enemy wards. Furthermore, Pyke has the capability to gank his own lane, a rare trait among support champions. Lastly, his ability to hook enemies through walls with Bone Skewer adds to his versatility and surprise factor in engagements.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What strategies should a player consider when using Pyke's abilities during gameplay?",
+        "answer_gold": "When playing Pyke, it's crucial to understand how to maximize the effectiveness of his abilities. For instance, with Bone Skewer, you face a decision: whether to tap for a quick slow or hold to hook an enemy. In most cases, using the hold option to pull an enemy into your team is beneficial, but in larger skirmishes, the tap option can provide necessary crowd control or peel. Additionally, utilizing Ghostwater Dive for roaming is essential; it allows you to engage or disengage effectively while providing healing through your passive, Gift of the Drowned Ones. Always be mindful of positioning to ensure you can use Phantom Undertow effectively, as it can serve both as an escape and an initiation tool. Lastly, mastering the timing of Death from Below is key; executing enemies will not only secure kills but also grant you the chance to use it again shortly after. Being aware of your surroundings, including enemy cooldowns and positioning, will greatly enhance your performance as Pyke.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What runes should I consider when playing Pyke in a dangerous matchup, especially if my ADC is lacking early game damage?",
+        "answer_gold": "In a dangerous matchup where your ADC lacks early game damage, it's advisable to take Bone Plating and Unflinching as your runes. Bone Plating will help absorb some of the initial poke and burst damage, while Unflinching provides additional tenacity and slow resistance, allowing you to reposition more effectively in team fights or skirmishes. These runes are particularly beneficial in situations where you'll be taking a lot of poke damage, enabling you to sustain through the early laning phase and provide the necessary support to your ADC.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What items should I prioritize on my first back as Pyke ADC, and what should I consider for my build order?",
+        "answer_gold": "On your first back as Pyke ADC, it's crucial to prioritize buying boots, as Pyke relies heavily on mobility to engage and disengage. If your ADC is already doing enough damage\u2014like champions such as Draven, Kai'Sa, or Lucian\u2014you should rush Ionian Boots for cooldown reduction. However, if you plan on roaming while your ADC farms, Swiftness Boots can be a better choice. As for the build order, start with a Doran's Blade for early AD and health. From there, if you're doing well, you might want to rush Prowler's Claw for its lethality and mobility. Generally, prioritize items like Umbral Glaive for early income through wards, and consider Death's Dance for survivability in team fights. Always aim to build lethality and cooldown reduction first, followed by armor to maintain your survivability.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the best runes to use on Pyke and how do they enhance his gameplay?",
+        "answer_gold": "For Pyke, the recommended primary rune is Hail of Blades, which allows for quick burst damage in both early and late game scenarios. This rune is particularly effective because it helps Pyke secure kills by enhancing his auto-attack speed after hitting an enemy. Zombie Ward is advised when opting for Umbral Glaive as it provides additional vision control, but if you're focusing on damage, Eyeball Collection can be a better choice for increased damage output. Tenacity is also a viable choice against champions with high crowd control, helping him remain mobile and effective in teamfights. Overall, Pyke's runes should focus on maximizing his burst potential and survivability, allowing him to excel in his role as an engage support.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the key runes and why are they important for playing Smolder effectively?",
+        "answer_gold": "For playing Smolder effectively, the key runes include Comet or Aery as interchangeable options for poke, Scorch for additional damage during trades, and Dematerializer to help reach your break point faster. The Dematerializer is crucial as it allows you to gain a minimum of 3 stacks per wave, which can significantly enhance your farming and damage output. Additionally, Manaflow is necessary for mana sustain, ensuring you can spam your Q without running out of resources early in the game. These runes synergize well with Smolder's playstyle, enabling efficient trading and farming, ultimately leading to a stronger late game performance.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Can you explain the recommended build for Smolder and how it contributes to his gameplay?",
+        "answer_gold": "The recommended build for Smolder typically includes starting with a Cull for early game gold and transitioning into items like Tear and Sheen on your first back for mana sustain and enhanced Q damage. The full build ideally consists of Trinity Force, Muramana, and Navori Quickblades, which provide significant scaling for your Q damage and mana management. Trinity Force offers a boost in movement speed when hitting enemies with Q, making it easier to kite and reposition in teamfights. Muramana enhances your mana pool, allowing for more frequent Q casts, while Navori Quickblades gives you additional utility on your abilities. This build focuses on maximizing Q damage while also providing sustain and survivability, enabling Smolder to excel in mid to late-game teamfights and burst down enemies with high damage output.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "How should I approach matchups against champions like Aphelios and Ashe while playing Smolder?",
+        "answer_gold": "Facing champions like Aphelios and Ashe can be quite challenging for Smolder due to their strengths in early trades and all-ins. Against Aphelios, who can outrange lower range ADCs, focus on avoiding his roots and all-ins, especially when he has his white gun equipped. At level one, it\u2019s advisable to refrain from trading unless you have your Q ready, as he can punish you hard if you let him space and auto-attack freely. On the other hand, the Ashe matchup requires you to be particularly wary of her early all-ins and slows. To mitigate her advantage, avoid positioning that allows her to run you down, and play in bushes to poke her down safely while maintaining lane control. The key in both matchups is to play cautiously and look for opportunities to poke and trade when you have the upper hand.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the best runes to use for Smolder, and why do they synergize well with his playstyle?",
+        "answer_gold": "For Smolder, the primary rune setup should feature Arcane Comet as the keystone. This choice enhances his poke potential during early trades, especially in the bot lane, as it easily procs with his abilities. Following Arcane Comet, you can select Manaflow Band for increased mana sustain, which is critical for maintaining ability usage in the early game. Absolute Focus provides a boost to either AD or AP, aligning well with Smolder's adaptive playstyle, while Scorch adds a bit of extra damage that can make a difference in securing kills. In the secondary tree, Magical Footwear and Biscuit Delivery are excellent choices. Magical Footwear offers free boots that improve Smolder's mobility without costing gold, allowing him to focus on damage items. Biscuit Delivery helps maintain his health and mana in the laning phase, ensuring he can stay longer in fights. This rune composition not only supports his early game aggression but also provides sustainability to scale effectively into the late game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Can you explain the importance of rune setups for Smolder and how they impact his gameplay?",
+        "answer_gold": "Certainly! Smolder's rune setups are crucial for maximizing his potential in different stages of the game. For instance, the Vanguard Rune setup focuses on utility and mid-game scaling, using Fleet Footwork and Presence of Mind to mitigate his early-game weaknesses. This setup allows him to stack mana efficiently, which is vital for his ability usage and sustaining pressure. The synergy with specialized shards like Attack Speed and Movement Speed ensures he can maintain optimal kiting distance while continuously harassing opponents. On the flip side, the Celestial Vanity setup is more aggressive, geared towards early-game lane dominance. It employs runes like Arcane Comet and Scorch to push opponents out of lane, allowing for quick gold accumulation through takedowns. This versatility in rune setups allows Smolder to adapt his playstyle based on the matchup and desired strategy, whether it's scaling for late-game or securing early kills for a snowball effect.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some of Smolder's biggest threats in lane, and how can players counter them effectively?",
+        "answer_gold": "Smolder faces several significant threats in lane, particularly champions like Caitlyn, Samira, and Draven. For instance, Caitlyn's long attack range poses a major challenge, as she can poke Smolder without risking her safety. Players can counter this by playing defensively, using minions as shields, and focusing on safe farming until they can secure their stacks. Against Samira, who can negate Smolder's damage with her wind wall, it's crucial to play for survival and avoid engaging until you have an item or level advantage. Additionally, Draven's high burst damage can be overwhelming, so players should prioritize positioning and avoid extended trades where possible. Utilizing wards effectively and maintaining control of the lane's vision can also help mitigate these threats, allowing Smolder to reach key power spikes safely.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "How do Gangplank's matchups differ against champions like Ahri and Kassadin?",
+        "answer_gold": "Gangplank faces distinct challenges against champions like Ahri and Kassadin due to their unique abilities and power spikes. Against Ahri, it's crucial to take 'First Strike' and focus on scaling, as she can be quite annoying with her passive healing and mobility post-rework. You should aim to poke her down early and look for kills in the late game when you can one-shot her. Conversely, in the matchup against Kassadin, you'll want to take the 'AP Burst Page' since he can silence you and become a formidable threat once he reaches level six. Kassadin is particularly cringe-inducing for Gangplank, as he can disrupt your barrels with his silence and outscale you if the game goes long. Hence, the strategy against Kassadin revolves around farming safely and looking for opportunities to be useful for your team, as it's challenging to secure kills against him after he reaches his power spike.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the best runes for Lux, and how can they be adapted for different matchups?",
+        "answer_gold": "For Lux, a standard rune page often revolves around the Comet rune due to her strong poke and AoE damage. Comet is especially effective as it has a short cooldown, allowing Lux to deal consistent damage in teamfights. However, there are alternatives to consider based on the matchup. For instance, if you're against a champion like Kassadin where you need to be more supportive and persistent, Aery can be a good choice. Additionally, if you want to focus on cooldown reduction (CDR) over ability power (AP), Transcendence is a viable option. In aggressive early game situations, Scorch can help you snowball by enhancing your poke damage. Lux can also benefit from the Domination tree, particularly with Cheap Shot paired with Ultimate Hunter or Eyeball Collection to maximize her poke and burst potential. Ultimately, adapting your runes to the specific champions you're facing is key to optimizing Lux's performance.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What runes do you recommend for Lux when playing as a support, especially in a bot lane with a mage ADC?",
+        "answer_gold": "When playing Lux as a support in a bot lane with a mage ADC, I recommend selecting runes that enhance your damage output and mana regeneration. Key runes include Dark Harvest, which can significantly boost your damage output, especially when you\u2019re paired with a mage like Zyra or Neeko. Biscuit Delivery is another essential rune as it helps regenerate mana early on in the game, ensuring you can continuously poke and harass the enemy. Additionally, make sure to focus on controlling your mana usage, as I learned from my experience playing Zyra. This rune setup has proven effective for me and works well with Lux's kit, allowing you to maximize your impact in the game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "How should I approach itemization for Pyke in different game scenarios?",
+        "answer_gold": "Itemization for Pyke should be adjusted based on the game's state and the enemy team composition. If you're even or behind, rushing Umbral Glaive is advisable as it grants valuable vision and lethality, which enhances your ability to roam and secure kills. If you're ahead, transitioning to Hubris followed by Youmuu's Ghostblade can amplify your damage and mobility even further. For survivability, Frozen Heart is an excellent choice if you wish to avoid building Mercury's Treads while still providing armor and cooldown reduction. In terms of support items, consider upgrading your support item into Locket of the Iron Solari when your team needs extra protection during skirmishes or team fights. Always prioritize upgrading your abilities, focusing on Q first, then E, and finally W, to ensure you are maximizing your damage potential in engagements. Adapt your build based on your opponents and the game's flow to maintain effectiveness throughout the match.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the advantages of playing Pyke as a support champion in League of Legends?",
+        "answer_gold": "Playing Pyke as a support champion offers several unique advantages. Firstly, Pyke excels at catching enemies off guard during the laning phase and mid-game, particularly through his abilities like Bone Skewer and Phantom Undertow. These skills allow him to initiate fights or secure kills by locking down opponents. Additionally, Pyke can significantly boost his team's gold income through his ultimate ability, Death from Below, which allows him to share gold with allies on kills. His roaming potential is also noteworthy; he can easily gank mid-lane due to his stealth from Ghostwater Dive, which helps him bypass enemy wards. Furthermore, Pyke has the capability to gank his own lane, a rare trait among support champions. Lastly, his ability to hook enemies through walls with Bone Skewer adds to his versatility and surprise factor in engagements.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "How should I approach itemization for Pyke, particularly in different matchup situations?",
+        "answer_gold": "When building items for Pyke, your strategy should depend on the enemy team's composition and the specific threats you're facing. Generally, an optimal first purchase is to rush Duskblade of Draktharr, often skipping boots initially in favor of buying Serrated Dirk or multiple Longswords to enhance early damage. If you're encountering heavy AP threats, consider buying Maw of Malmortius early to provide a shield and boost your survivability. In high AD situations, Death's Dance can be a valuable late-game item, ideally built after Duskblade to provide sustain and damage. Remember to adapt your build based on the game; items like Umbral Glaive are critical for vision control, while items like Death's Dance or Maw can greatly affect your survivability during teamfights. Always assess the matchup to ensure you're maximizing your effectiveness on the battlefield.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the key rune setups I should consider when playing Rengar top, and how do they impact different matchups?",
+        "answer_gold": "When playing Rengar top, the choice of runes can significantly influence your performance depending on your matchup. The Conqueror rune is a solid choice against champions with burst damage or strong trades, allowing for sustained fights. It's particularly effective in matchups where you can trade long, such as versus champions like Nasus or Renekton. On the other hand, the Precision tree's Press the Attack (PTA) is optimal for early dominance in matchups you can win quickly but may get outscaled, allowing for aggressive short trades until you can all-in your opponent. For ranged matchups, Fleet Footwork combined with Second Wind is recommended, providing sustain and mobility when you can't engage in prolonged fights, ideal against champions like Trundle or Singed. Always consider swapping Bone Plating and Second Wind based on the specific threats you'll face, ensuring your runes are tailored for maximum effectiveness.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some of Rengar's strengths and weaknesses in the top lane, and how do they influence his performance in matches?",
+        "answer_gold": "Rengar has several strengths that make him a formidable champion in the top lane. His aggressive laning phase allows him to bully opponents and gain early leads, which can snowball into significant advantages through effective roams and skirmishes. Rengar's flexible build paths enable players to adapt their itemization to either focus on teamfights as a tank or bruiser or to play for side lanes with dueling builds. However, Rengar also has notable weaknesses. He struggles when behind, especially against champions that can zone him out of bushes or those with crowd control, making it difficult for him to set up dives. Additionally, Rengar has limited effectiveness in mid-late game sieges without his Thrill of the Hunt ability, which can leave him feeling less impactful in team fights if not played carefully. Understanding these strengths and weaknesses is crucial for maximizing Rengar's performance and ensuring he can effectively contribute to his team's objectives.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Why is Blue Smite considered the best choice for Rengar's jungle clear?",
+        "answer_gold": "Blue Smite is widely regarded as the best choice for Rengar's jungle clear because it synergizes perfectly with his playstyle, particularly when utilizing his ability to ambush from bushes. The movement speed boost provided by Blue Smite allows Rengar to close the gap quickly on targets, enhancing his ability to catch enemies off guard. Additionally, the smite's damage and slow effect are beneficial for securing kills or escaping sticky situations. It's recommended to always start with Blue Smite and maintain it well into the game, as it maximizes Rengar's potential to engage and disengage effectively during fights.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are the major threats and synergies for Rengar in League of Legends?",
+        "answer_gold": "Rengar faces significant threats from champions like Lee Sin and Zac, both of whom can quickly burst him down or outmaneuver him in team fights. Lee Sin, in particular, is considered a major threat due to his mobility and ability to execute Rengar before he can react. Kha'Zix is considered an even matchup; while he can challenge Rengar, their skills can counter one another effectively. On the synergy side, champions like Ivern work exceptionally well with Rengar. Ivern's ability to provide shields and healing complements Rengar's aggressive playstyle, allowing him to dive into fights with added survivability. This combination can create potent team dynamics, especially when focusing on objectives or ambushing enemies in jungle skirmishes.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "Can you explain the importance of stack management and the usage of Rengar's abilities?",
+        "answer_gold": "Stack management is crucial for Rengar's gameplay because it determines how effectively he can utilize his abilities. Rengar gains stacks through ability usage, with a maximum of four stacks available at any given time. Each stack opens up new possibilities for executing his abilities, enhancing his combat potential. For instance, at four stacks, Rengar can recast one of his abilities: the Q grants increased damage and temporary attack speed, the W provides a cleanse effect against crowd control, and the E snags an enemy, providing crowd control. Learning when and what ability to use in conjunction with your stacks is key to gaining an advantage in fights. Additionally, using brush strategically allows Rengar to leap onto enemies, effectively managing his stacks and maximizing his damage output. Mastering this aspect of Rengar's kit can significantly elevate a player's performance, turning him into a formidable opponent in the right hands.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What are some runes I should consider when playing Smolder, and are there any alternatives I should keep in mind?",
+        "answer_gold": "When playing Smolder, you can opt for the Hubris Build which is designed to allow you to burst down squishies effectively while still contesting with ranged champions. The primary rune is Press the Attack (PTA), but if you're facing two ranged champions and find it hard to proc PTA reliably in lane, you might want to swap it out for Fleet Footwork for some sustain. Additionally, if you feel you require more sustain during the mid to late game, consider taking Bloodline instead of Legend: Haste. It's important to adjust your runes depending on your lane matchup and what you believe will help you survive and thrive throughout the game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    },
+    {
+        "question": "What situational items should Smolder consider against specific enemy compositions?",
+        "answer_gold": "When playing Smolder, situational itemization is key to adapting to the enemy team composition. For instance, if you are facing multiple tank champions, picking up Liandry's Anguish is highly beneficial due to its burn damage and ability to penetrate tank defenses over time. In scenarios where you anticipate duels or extended fights, acquiring the Spear (presumably referring to Spear of Shojin) can be advantageous as it reduces ability cooldowns, allowing Smolder to unleash his skills more frequently. If you find yourself up against burst mages such as LeBlanc, Syndra, or Annie, Maw of Malmortius is a strong choice to mitigate their burst damage. It's also effective against sustained damage mages like Cassiopeia and Ryze, who rely on consistent damage output. These items are essential to both tankiness and damage output, ensuring Smolder can survive and thrive against various threats throughout the game.",
+        "context": "",
+        "rag_answer": "",
+        "strong_llm_answer": "",
+        "weak_llm_answer": ""
+    }
+]
