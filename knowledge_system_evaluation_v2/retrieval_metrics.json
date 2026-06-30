@@ -1,0 +1,20 @@
+{
+    "bm25": {
+        "mean_entity_recall_15": 0.7594
+    },
+    "vector_only": {
+        "mean_entity_recall_15": 0.7433
+    },
+    "graph_rag": {
+        "mean_entity_recall_15": 0.7357
+    },
+    "asr_only": {
+        "mean_entity_recall_15": 0.6723
+    },
+    "vision_only": {
+        "mean_entity_recall_15": 0.6325
+    },
+    "_meta": {
+        "valid_questions": 493
+    }
+}

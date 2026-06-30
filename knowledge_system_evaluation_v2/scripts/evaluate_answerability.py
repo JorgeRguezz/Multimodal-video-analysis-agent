@@ -43,6 +43,12 @@ async def process_dataset():
         device_map="auto",
         trust_remote_code=True
     )
+    
+    # Fix for "Cannot handle batch sizes > 1 if no padding token is defined."
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+    model.config.pad_token_id = tokenizer.pad_token_id
+    
     model.eval()
     
     print("Initializing InferenceService for retrieval...")
@@ -97,15 +103,15 @@ async def process_dataset():
         max_score = -999.0
         
         if top_15_hits:
-            # Format pairs for the cross-encoder: (query, document)
-            pairs = [[query_formatted, hit.text] for hit in top_15_hits]
-            
-            # Run batch inference
-            inputs = tokenizer(pairs, padding=True, truncation=True, return_tensors='pt', max_length=2048).to(model.device)
-            with torch.no_grad():
-                scores = model(**inputs, return_dict=True).logits.view(-1,).float()
+            for hit in top_15_hits:
+                pair = [[query_formatted, hit.chunk_text]]
+                inputs = tokenizer(pair, padding=True, truncation=True, return_tensors='pt', max_length=2048).to(model.device)
                 
-            max_score = scores.max().item()
+                with torch.no_grad():
+                    score = model(**inputs, return_dict=True).logits.view(-1,)[0].float().item()
+                    
+                if score > max_score:
+                    max_score = score
             
         # Standard sigmoid normalization from logits
         normalized_score = 1 / (1 + math.exp(-max_score)) if max_score != -999.0 else 0.0
