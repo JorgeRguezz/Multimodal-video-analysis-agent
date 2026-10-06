@@ -110,5 +110,13 @@ inventory_*.json
 # .mds files
 # Agents.md
 
+Manual_Eval/
 
 ieee-access-paper/
+
+handoff.md
+
+*.docx
+
+# macOS metadata
+.DS_Store
