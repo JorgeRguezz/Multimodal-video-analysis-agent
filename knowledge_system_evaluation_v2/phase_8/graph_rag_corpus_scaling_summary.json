@@ -1,0 +1,67 @@
+[
+  {
+    "num_videos": 5,
+    "n_questions": 87,
+    "n_answers": 87,
+    "n_refusal": 87,
+    "refusal_rate": 0.8505747126436781,
+    "answer_rate": 0.14942528735632188,
+    "n_correctness": 87,
+    "mean_correctness": 0.14942528735632185,
+    "n_faithfulness": 87,
+    "mean_faithfulness": 0.618363347365061,
+    "mean_final_evidence_count": 13.091954022988507
+  },
+  {
+    "num_videos": 10,
+    "n_questions": 87,
+    "n_answers": 87,
+    "n_refusal": 87,
+    "refusal_rate": 0.7931034482758621,
+    "answer_rate": 0.2068965517241379,
+    "n_correctness": 87,
+    "mean_correctness": 0.1724137931034483,
+    "n_faithfulness": 87,
+    "mean_faithfulness": 0.6262586407563454,
+    "mean_final_evidence_count": 13.137931034482758
+  },
+  {
+    "num_videos": 20,
+    "n_questions": 87,
+    "n_answers": 87,
+    "n_refusal": 87,
+    "refusal_rate": 0.6436781609195402,
+    "answer_rate": 0.3563218390804598,
+    "n_correctness": 87,
+    "mean_correctness": 0.3563218390804598,
+    "n_faithfulness": 87,
+    "mean_faithfulness": 0.6059998650475287,
+    "mean_final_evidence_count": 13.137931034482758
+  },
+  {
+    "num_videos": 30,
+    "n_questions": 87,
+    "n_answers": 87,
+    "n_refusal": 87,
+    "refusal_rate": 0.5632183908045977,
+    "answer_rate": 0.4367816091954023,
+    "n_correctness": 87,
+    "mean_correctness": 0.367816091954023,
+    "n_faithfulness": 87,
+    "mean_faithfulness": 0.6064082896425455,
+    "mean_final_evidence_count": 12.885057471264368
+  },
+  {
+    "num_videos": 38,
+    "n_questions": 87,
+    "n_answers": 87,
+    "n_refusal": 87,
+    "refusal_rate": 0.42528735632183906,
+    "answer_rate": 0.5747126436781609,
+    "n_correctness": 87,
+    "mean_correctness": 0.4367816091954023,
+    "n_faithfulness": 87,
+    "mean_faithfulness": 0.5959718503788182,
+    "mean_final_evidence_count": 12.850574712643677
+  }
+]
