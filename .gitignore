@@ -110,6 +110,7 @@ inventory_*.json
 # .mds files
 # Agents.md
 
+Manual_Eval/
 
 # ieee-access-paper/
 
@@ -120,3 +121,9 @@ community_qa_dataset_*
 # Large local Phase 8 evaluation outputs
 /knowledge_system_evaluation_v2/phase_8/graph_rag_corpus_scaling_results.json
 /knowledge_system_evaluation_v2/phase_8/graph_rag_corpus_scaling_results_scored.json
+handoff.md
+
+*.docx
+
+# macOS metadata
+.DS_Store
