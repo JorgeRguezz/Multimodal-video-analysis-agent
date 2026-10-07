@@ -1,0 +1,1 @@
+Multimodal Graph-RAG pipeline: League of Legends gameplay videos are processed through ASR, SAM3-based visual grounding, and VLM descriptions; structured entities and relations are extracted into a multivideo knowledge graph; and retrieval-augmented inference generates grounded answers to user queries with evidence from the processed video corpus.

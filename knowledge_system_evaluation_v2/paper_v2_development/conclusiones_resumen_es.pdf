@@ -1,0 +1,252 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3619 >>
+stream
+BT /F2 18.00 Tf 1 0 0 1 50.00 790.00 Tm (Conclusiones principales de la evaluación) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 739.00 Tm (1. La historia central no debe ser que Graph-RAG gana claramente) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 710.00 Tm (La evaluación no demuestra que Graph-RAG supere de forma estadísticamente estable a) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 696.00 Tm (Vector-only RAG. Los resultados medios muestran pequeñas diferencias a favor de Graph-RAG en) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 682.00 Tm (algunas métricas, pero los intervalos de confianza por bootstrap cruzan cero en todas las) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 668.00 Tm (comparaciones principales.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 645.00 Tm (Por tanto, el framing correcto no es:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 619.00 Tm (Graph-RAG mejora significativamente a Vector-only RAG.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 596.00 Tm (El framing correcto es:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 570.00 Tm (Graph-RAG es competitivo con Vector-only RAG y muestra pequeñas mejoras observadas en) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 557.00 Tm (correctness y faithfulness, pero estas mejoras no son estadísticamente estables en la) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 544.00 Tm (evaluación actual.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 521.00 Tm (Esto es importante porque responde de forma honesta a una de las críticas principales de la) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 507.00 Tm (primera submission: la necesidad de demostrar claramente el valor añadido del knowledge) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 493.00 Tm (graph.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 458.00 Tm (2. La principal limitación es la cobertura del corpus) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 429.00 Tm (La evaluación usa 493 preguntas reales de la comunidad:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 406.00 Tm (- 307 de MOBAFire.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 390.00 Tm (- 186 de Arqade.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 374.00 Tm (- 396 preguntas actuales.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 358.00 Tm (- 97 preguntas legacy.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 342.00 Tm (- 247 preguntas Full, 124 Partial y 122 None según answerability.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 321.00 Tm (El resultado más claro es que el corpus de vídeos procesados no cubre suficientemente la) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 307.00 Tm (variedad de preguntas reales que hacen los jugadores. Por eso todos los sistemas basados en) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 293.00 Tm (retrieval rechazan responder muchas veces:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 270.00 Tm (- Graph-RAG: 82.35% de refusal.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 254.00 Tm (- Vector-only RAG: 82.96%.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 238.00 Tm (- ASR-only: 83.16%.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 222.00 Tm (- Vision-only: 84.38%.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 206.00 Tm (- BM25: 86.21%.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 185.00 Tm (La conclusión no debe ser que el sistema simplemente funciona mal, sino que la base de) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 171.00 Tm (conocimiento es todavía pequeña frente a la amplitud del benchmark.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 148.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 122.00 Tm (La evaluación muestra que la cobertura del corpus es el principal cuello de botella.) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 109.00 Tm (Muchas preguntas reales no pueden responderse de forma grounded porque la información) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 96.00 Tm (necesaria no está presente en los vídeos procesados.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4180 >>
+stream
+BT /F2 13.00 Tf 1 0 0 1 50.00 790.00 Tm (3. El sistema es conservador y evita responder sin evidencia) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 761.00 Tm (Aunque la tasa de refusal es alta, la tasa de over-refusal es muy baja. En Graph-RAG,) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 747.00 Tm (Vector-only, ASR-only y BM25 es aproximadamente 0.41%.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 724.00 Tm (Esto significa que, cuando el sistema se niega a responder, normalmente el evaluador también) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 710.00 Tm (considera que el contexto recuperado no contiene evidencia suficiente.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 687.00 Tm (Esta es una conclusión positiva:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 661.00 Tm (Los sistemas basados en retrieval muestran abstención calibrada: prefieren no) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 648.00 Tm (responder cuando no hay evidencia suficiente en lugar de inventar una respuesta.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 625.00 Tm (Esto ayuda a diferenciar el sistema de un modelo puramente paramétrico que responde casi) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 611.00 Tm (siempre, pero sin grounding en los vídeos.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 576.00 Tm (4. Los modelos paramétricos responden mejor, pero no son grounded) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 547.00 Tm (Los baselines sin contexto, especialmente sota_base, tienen mucha más correctness y) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 533.00 Tm (relevance:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 510.00 Tm (- sota_base: correctness 1.199 sobre 2, relevance 0.839.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 494.00 Tm (- vanilla_base: correctness 0.740, relevance 0.762.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 478.00 Tm (- Graph-RAG: correctness 0.144, relevance 0.250.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 462.00 Tm (- Vector-only: correctness 0.134, relevance 0.266.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 441.00 Tm (Esto no significa que el sistema RAG sea inútil. Significa que los modelos paramétricos) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 427.00 Tm (tienen mucho conocimiento general sobre League of Legends y pueden contestar muchas) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 413.00 Tm (preguntas desde memoria interna, sin depender de los vídeos.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 390.00 Tm (El paper debe separar claramente dos cosas:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 367.00 Tm (- Conocimiento general del juego.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 351.00 Tm (- QA grounded sobre un corpus concreto de vídeos procesados.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 330.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 304.00 Tm (Los modelos paramétricos funcionan como una referencia de conocimiento general, pero) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 291.00 Tm (no cumplen el objetivo principal del sistema: responder únicamente a partir de) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 278.00 Tm (evidencia recuperada del corpus audiovisual.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 243.00 Tm (5. Graph-RAG es competitivo con Vector-only, pero no superior de) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 225.00 Tm (forma concluyente) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 196.00 Tm (Comparación global Graph-RAG frente a Vector-only:) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 173.00 Tm (| Métrica | Graph-RAG | Vector-only | Diferencia | 95% CI |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 163.00 Tm (|---|---:|---:|---:|---:|) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 153.00 Tm (| BERTScore-F1 | 0.734 | 0.736 | -0.002 | [-0.003, +0.000] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 143.00 Tm (| Correctness | 0.144 | 0.134 | +0.010 | [-0.022, +0.043] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 133.00 Tm (| Faithfulness | 0.632 | 0.626 | +0.006 | [-0.026, +0.037] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 123.00 Tm (| Relevance | 0.250 | 0.266 | -0.016 | [-0.055, +0.024] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 113.00 Tm (| Refusal rate | 82.35% | 82.96% | -0.61 pp | [-4.06 pp, +2.84 pp] |) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 98.00 Tm (Todas las diferencias tienen intervalos que cruzan cero. Por tanto:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 75.00 Tm (- No podemos decir que Graph-RAG sea significativamente mejor.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4128 >>
+stream
+BT /F1 10.00 Tf 1 0 0 1 64.00 790.00 Tm (- Sí podemos decir que es competitivo.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 774.00 Tm (- Sí podemos decir que muestra pequeñas mejoras observadas en correctness y) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 760.00 Tm (faithfulness.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 744.00 Tm (- Sí debemos decir que estas mejoras no son concluyentes.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 723.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 697.00 Tm (Graph-RAG se comporta de forma competitiva respecto a Vector-only RAG, pero la) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 684.00 Tm (evaluación actual no proporciona evidencia estadísticamente estable de una mejora) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 671.00 Tm (global.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 636.00 Tm (6. El patrón más prometedor aparece en preguntas Partial) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 607.00 Tm (El resultado más interesante para defender el knowledge graph aparece en las preguntas) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 593.00 Tm (Partial, donde existe algo de evidencia relevante, pero no una respuesta directa y completa.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 570.00 Tm (En ese subconjunto:) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 547.00 Tm (| Métrica | Graph-RAG | Vector-only | Diferencia | 95% CI |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 537.00 Tm (|---|---:|---:|---:|---:|) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 527.00 Tm (| Correctness | 0.185 | 0.145 | +0.040 | [-0.032, +0.121] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 517.00 Tm (| Faithfulness | 0.648 | 0.622 | +0.026 | [-0.033, +0.086] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 507.00 Tm (| Relevance | 0.258 | 0.251 | +0.007 | [-0.079, +0.096] |) Tj ET
+BT /F3 7.20 Tf 1 0 0 1 50.00 497.00 Tm (| Refusal rate | 83.87% | 83.06% | +0.81 pp | [-5.65 pp, +7.26 pp] |) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 482.00 Tm (Aquí Graph-RAG tiene las mejores diferencias observadas. Esto sugiere que el grafo puede) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 468.00 Tm (ayudar cuando la información está fragmentada entre entidades, relaciones y chunks) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 454.00 Tm (distintos.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 431.00 Tm (Pero los intervalos de confianza también cruzan cero. Por tanto, hay que presentarlo como un) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 417.00 Tm (indicio, no como una prueba.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 394.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 368.00 Tm (El mayor beneficio observado de Graph-RAG aparece en preguntas parcialmente) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 355.00 Tm (answerable, lo que sugiere que el grafo puede ser útil cuando la evidencia está) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 342.00 Tm (fragmentada. Sin embargo, esta mejora no es estadísticamente estable en el conjunto) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 329.00 Tm (actual.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 294.00 Tm (7. BM25 es un baseline fuerte para entidades exactas) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 265.00 Tm (BM25 obtiene la mayor faithfulness media entre los sistemas de retrieval y también el mayor) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 251.00 Tm (recall exacto de entidades en retrieval_metrics.json.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 228.00 Tm (Esto tiene sentido: si la respuesta gold contiene nombres exactos de campeones, objetos,) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 214.00 Tm (runas o hechizos, BM25 puede encontrarlos bien por coincidencia léxica.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 191.00 Tm (Pero BM25 también tiene:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 168.00 Tm (- La mayor refusal rate.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 152.00 Tm (- Baja correctness.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 136.00 Tm (- Menor capacidad para razonamiento semántico o relacional.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 115.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 89.00 Tm (BM25 sigue siendo un baseline fuerte para recuperación léxica exacta en dominios con) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 76.00 Tm (muchas entidades nombradas, pero no basta para QA grounded más semántico o relacional.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3878 >>
+stream
+BT /F2 13.00 Tf 1 0 0 1 50.00 790.00 Tm (8. Audio y visión aportan señales complementarias) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 761.00 Tm (Las ablations muestran que ni ASR-only ni Vision-only son suficientes por separado.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 738.00 Tm (El análisis sugiere:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 715.00 Tm (- La visión ayuda más a identificar el sujeto o campeón principal.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 699.00 Tm (- El audio contiene más vocabulario estratégico: objetos, builds, runas, habilidades y) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 685.00 Tm (explicaciones.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 664.00 Tm (Esto justifica mantener una arquitectura multimodal.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 641.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 615.00 Tm (La información visual y la información hablada cumplen funciones distintas: la visión) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 602.00 Tm (ancla el contexto de gameplay, mientras que el audio aporta muchos de los detalles) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 589.00 Tm (estratégicos necesarios para responder.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 554.00 Tm (9. Correctness debe interpretarse junto con refusal) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 525.00 Tm (Los sistemas de retrieval tienen muchas respuestas con correctness 0. Pero muchas de esas) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 511.00 Tm (respuestas son refusals, no alucinaciones.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 488.00 Tm (Por ejemplo:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 465.00 Tm (- Graph-RAG tiene 429 respuestas con score 0, 57 con score 1 y 7 con score 2.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 449.00 Tm (- Vector-only tiene 435 con score 0, 50 con score 1 y 8 con score 2.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 433.00 Tm (- sota_base tiene muchos más scores 1 y 2 porque responde siempre desde conocimiento) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 419.00 Tm (paramétrico.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 398.00 Tm (Por eso no se debe interpretar correctness sola. En este tipo de sistema, una refusal puede) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 384.00 Tm (ser el comportamiento correcto si no hay evidencia.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 361.00 Tm (Framing recomendado:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 335.00 Tm (En QA grounded con un corpus incompleto, la correctness mezcla dos fenómenos:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 322.00 Tm (respuestas incorrectas y abstenciones justificadas. Por eso hay que analizarla junto) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 309.00 Tm (con refusal y over-refusal.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 274.00 Tm (10. Qué debemos afirmar en el paper) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 245.00 Tm (Sí podemos afirmar:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 222.00 Tm (- La nueva evaluación es mucho más fuerte que la de la primera submission.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 206.00 Tm (- Usa preguntas reales de la comunidad.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 190.00 Tm (- Separa preguntas Current y Legacy.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 174.00 Tm (- Separa preguntas Full, Partial y None según answerability.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 158.00 Tm (- Incluye baselines paramétricos, BM25, ASR-only, Vision-only, Vector-only y) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 144.00 Tm (Graph-RAG.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 128.00 Tm (- Muestra que la cobertura del corpus es el cuello de botella principal.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 112.00 Tm (- Muestra que los sistemas de retrieval son conservadores y evitan responder sin) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 98.00 Tm (evidencia suficiente.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 82.00 Tm (- Muestra que Graph-RAG es competitivo con Vector-only.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 66.00 Tm (- Muestra un patrón prometedor para Graph-RAG en preguntas Partial.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2177 >>
+stream
+BT /F1 10.00 Tf 1 0 0 1 64.00 790.00 Tm (- Justifica la necesidad de combinar audio y visión.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 769.00 Tm (No debemos afirmar:) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 746.00 Tm (- Que Graph-RAG mejora significativamente a Vector-only.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 730.00 Tm (- Que el knowledge graph queda demostrado como claramente superior.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 714.00 Tm (- Que el sistema resuelve completamente el problema de QA sobre vídeos de gameplay.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 64.00 698.00 Tm (- Que las métricas de correctness bajas significan únicamente respuestas incorrectas.) Tj ET
+BT /F2 13.00 Tf 1 0 0 1 50.00 665.00 Tm (11. Framing final recomendado) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 50.00 636.00 Tm (El mensaje final debería ser algo como:) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 610.00 Tm (La evaluación con preguntas reales muestra que el principal reto para QA grounded) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 597.00 Tm (sobre vídeos de gameplay es la cobertura del corpus. Los modelos paramétricos) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 584.00 Tm (responden más preguntas correctamente, pero sin grounding en los vídeos. En cambio,) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 571.00 Tm (los sistemas de retrieval son mucho más conservadores y se abstienen cuando no) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 558.00 Tm (encuentran evidencia suficiente. Graph-RAG es competitivo con Vector-only RAG y) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 545.00 Tm (muestra pequeñas mejoras observadas en correctness y faithfulness, especialmente en) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 532.00 Tm (preguntas parcialmente answerable, pero los intervalos de confianza cruzan cero y no) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 519.00 Tm (permiten afirmar una mejora estadísticamente estable. Estos resultados apoyan la) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 506.00 Tm (viabilidad del enfoque, pero también muestran que la escala del corpus, la cobertura) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 493.00 Tm (de retrieval y una evaluación más dependiente de relaciones de grafo son los próximos) Tj ET
+BT /F1 9.50 Tf 1 0 0 1 66.00 480.00 Tm (puntos clave.) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000245 00000 n 
+0000000347 00000 n 
+0000000442 00000 n 
+0000004112 00000 n 
+0000004258 00000 n 
+0000008489 00000 n 
+0000008635 00000 n 
+0000012815 00000 n 
+0000012963 00000 n 
+0000016893 00000 n 
+0000017041 00000 n 
+0000019270 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+19418
+%%EOF
