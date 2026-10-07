@@ -72,9 +72,6 @@ async def retrieve_vector_mock(query=None, intent=None, stores=None, global_grap
     # Call only the dense retriever from our actual retrievers module
     return await retrieve_chunks_dense(query, stores, k=15)
 
-async def retrieve_parametric_mock(query=None, intent=None, stores=None, global_graph=None, **kwargs):
-    return []
-
 def evidence_sources(evidence: list[EvidenceBlock | RetrievalHit]):
     return [e.source for e in evidence]
 
@@ -196,7 +193,7 @@ async def populate_contexts_only(test_mode=False):
         query = build_query(item)
         ablations = item.setdefault("ablations", {})
 
-        for ab_name in ("vanilla_base", "parametric", "sota_base"):
+        for ab_name in ("vanilla_base", "sota_base"):
             if ab_name in ablations:
                 ablations[ab_name].setdefault("evidence_sources", [])
                 ablations[ab_name]["evidence_contexts"] = []
@@ -255,24 +252,19 @@ async def process_dataset(test_mode=False):
         logger.info("  -> Running vanilla_base")
         vanilla_ans = await run_vanilla_base(query)
         
-        # 2. Parametric
-        logger.info("  -> Running parametric")
-        with patch("knowledge_inference.service.retrieve_all", new=retrieve_parametric_mock):
-            param_res = await service._answer_async(query)
-            
-        # 3. BM25
+        # 2. BM25
         logger.info("  -> Running bm25")
         async def bm25_wrapper(query=None, intent=None, stores=None, global_graph=None, **kwargs):
             return await retrieve_bm25_mock(query=query, intent=intent, stores=stores, global_graph=global_graph, bm25_index=bm25_index, chunk_refs=chunk_refs)
         with patch("knowledge_inference.service.retrieve_all", new=bm25_wrapper):
             bm25_res = await service._answer_async(query)
             
-        # 4. Vector-Only
+        # 3. Vector-Only
         logger.info("  -> Running vector_only")
         with patch("knowledge_inference.service.retrieve_all", new=retrieve_vector_mock):
             vector_res = await service._answer_async(query)
             
-        # 5. Graph-RAG (Full)
+        # 4. Graph-RAG (Full)
         logger.info("  -> Running graph_rag")
         graph_res = await service._answer_async(query)
         
@@ -281,11 +273,6 @@ async def process_dataset(test_mode=False):
                 "answer": vanilla_ans,
                 "evidence_sources": [],
                 "evidence_contexts": []
-            },
-            "parametric": {
-                "answer": param_res.answer,
-                "evidence_sources": evidence_sources(param_res.evidence),
-                "evidence_contexts": evidence_contexts(param_res.evidence)
             },
             "bm25": {
                 "answer": bm25_res.answer,

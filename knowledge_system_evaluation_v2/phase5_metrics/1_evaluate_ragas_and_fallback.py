@@ -41,7 +41,7 @@ embeddings_model = LangchainEmbeddingsWrapper(
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", ""))
 
-NO_CONTEXT_ABLATIONS = {"vanilla_base", "parametric", "sota_base"}
+NO_CONTEXT_ABLATIONS = {"vanilla_base", "sota_base"}
 RETRIEVAL_ABLATIONS = {"bm25", "vector_only", "graph_rag", "asr_only", "vision_only"}
 SOURCE_LABEL_TOKENS = {"bm25", "dense_chunk", "entity_graph", "global_graph", "visual_support", "vector_modality"}
 MAX_FALLBACK_CONTEXTS = 5

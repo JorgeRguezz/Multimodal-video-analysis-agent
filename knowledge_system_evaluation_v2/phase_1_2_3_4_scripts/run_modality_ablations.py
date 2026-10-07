@@ -54,7 +54,7 @@ def build_query(item):
 
 def validate_phase5_ready(data):
     retrieval_ablations = {"bm25", "vector_only", "graph_rag", "asr_only", "vision_only"}
-    no_context_ablations = {"vanilla_base", "parametric", "sota_base"}
+    no_context_ablations = {"vanilla_base", "sota_base"}
     expected_ablations = retrieval_ablations | no_context_ablations
     errors = []
 
